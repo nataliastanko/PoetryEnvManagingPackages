@@ -1,25 +1,39 @@
 
 Standalone application with third-party dependency
 
-# Requirements
+*****
+Requirements
+*****
 
-## Python version
+Python version
+########
 
 Make sure you have python3 installed
 
+.. code-block:: bash
+
     python3 --version
 
-## Poetry
+Poetry
+########
 
 Make sure you have `Poetry <https://python-poetry.org/>`_ installed
 
-  poetry --version
+.. code-block:: bash
 
-# Run
+    poetry --version
 
-  poetry install
-  poetry run currency.py
+*****
+Run
+*****
 
-# Sources
+.. code-block:: bash
 
-- [Foreign exchange rates API with currency conversion](https://exchangeratesapi.io/)
+    poetry install
+    poetry run currency.py
+
+*****
+Sources
+*****
+
+* `Foreign exchange rates API with currency conversion <https://exchangeratesapi.io/>`_
