@@ -1,0 +1,9 @@
+README.rst
+setup.py
+poetryenvmanagingpackages/__init__.py
+poetryenvmanagingpackages/currency.py
+poetryenvmanagingpackages.egg-info/PKG-INFO
+poetryenvmanagingpackages.egg-info/SOURCES.txt
+poetryenvmanagingpackages.egg-info/dependency_links.txt
+poetryenvmanagingpackages.egg-info/requires.txt
+poetryenvmanagingpackages.egg-info/top_level.txt
